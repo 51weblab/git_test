@@ -1,3 +1,3 @@
 # git_test
-Git Test with VSC  
+Git Test  
 _Gitを試すテストです。_
